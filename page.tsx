@@ -27,9 +27,9 @@ export default function ChiNosLandingPage() {
       <header className="bg-white">
         <div className="container mx-auto px-6 py-16">
           <div className="flex flex-col items-center">
-            <h1 className="text-4xl font-bold text-gray-800 mb-4 text-center">Pantalones Chino: Versatilidad y Estilo</h1>
+            <h1 className="text-4xl font-bold text-gray-800 mb-4 text-center">Pantalones Chinos: Van con TODO</h1>
             <p className="text-xl text-gray-600 mb-8 text-center max-w-2xl">
-              Perfectos para cualquier ocasión: escuela, universidad, oficina, eventos casuales o semiformales.
+              Perfectos para cualquier ocasión: escuela, universidad, oficina. Con zapatos o con tenis. Con camiseta o con blazer.
             </p>
             <img src="/placeholder.svg?height=600&width=800" alt="Chino pants hero" className="rounded-lg shadow-xl" />
           </div>
