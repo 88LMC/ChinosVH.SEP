@@ -5,10 +5,10 @@ export default function ChiNosLandingPage() {
   const [selectedImage, setSelectedImage] = useState(null)
 
   const images = [
-    { src: '/placeholder.svg?height=400&width=300', alt: 'Chino pants style 1' },
-    { src: '/placeholder.svg?height=400&width=300', alt: 'Chino pants style 2' },
-    { src: '/placeholder.svg?height=400&width=300', alt: 'Chino pants style 3' },
-    { src: '/placeholder.svg?height=400&width=300', alt: 'Chino pants style 4' },
+    { src: 'CHINOS__ copia 4.jpg', alt: 'Chino pants style 1' },
+    { src: '178.jpg', alt: 'Chino pants style 2' },
+    { src: '197.jpg', alt: 'Chino pants style 3' },
+    { src: 'chinos_07.jpg', alt: 'Chino pants style 4' },
   ]
 
   return (
