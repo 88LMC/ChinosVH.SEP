@@ -5,10 +5,10 @@ function ChiNosLandingPage() {
   const [selectedImage, setSelectedImage] = useState(null);
 
   const images = [
-    { src: 'chino-style-1.jpg', alt: 'Chino pants style 1' },
-    { src: 'chino-style-2.jpg', alt: 'Chino pants style 2' },
-    { src: 'chino-style-3.jpg', alt: 'Chino pants style 3' },
-    { src: 'chino-style-4.jpg', alt: 'Chino pants style 4' },
+    { src: '178.jpg', alt: 'Chino pants style 1' },
+    { src: '179.jpg', alt: 'Chino pants style 2' },
+    { src: 'chinos_copia4.jpg', alt: 'Chino pants style 3' },
+    { src: '221.jpg', alt: 'Chino pants style 4' },
   ];
 
   return (
